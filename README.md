@@ -2,6 +2,9 @@
 
 Acrônimo de Application Programming Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
 
+![illustration](https://github.com/darneees/Api/assets/79709843/cff3f010-0007-4d80-b083-9c185f56c4b2)
+
+
 # Rest
 
 um acrônimo para REpresentational State Transfer (Transferência de Estado Representativo).
