@@ -57,6 +57,10 @@ RESTful, é a aplicação dos padrões REST.
 -  Não deixar barra no final do endpoint
 -  Nunca deixe o cliente sem resposta!
 
+# Status de resposta
+
+![status](img/status.jpg)
+
 -----
 
 ![title](img/title.jpg)
@@ -109,5 +113,27 @@ RESTful is the application of REST standards.
 -   Use plural or singular in the creation of endpoints? IT DOESN'T MATTER! use a standard!!
 -   Do not leave a trailing slash at the end of the endpoint.
 -   Never leave the client without a response!
+
+# Response Statuses
+-   1xx: Informational
+
+
+-   2xx: Success
+    - 200: OK
+    - 201: CREATED
+    - 204: No Content (for PUT, POST, DELETE)
+
+
+- 3xx: Redirection
+
+
+- 4xx: Client Error
+  - 400: Bad Request
+  - 404: Not Found!
+
+
+- 5xx: Server Error 
+  - 500: Internal Server Error
+
 
 -----
